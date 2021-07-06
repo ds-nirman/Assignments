@@ -1,0 +1,10 @@
+.three{
+    color: cadetblue;
+    background-color: rgba(148, 3, 3, .7);
+    font-size: 30px;
+}
+.one{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+}
